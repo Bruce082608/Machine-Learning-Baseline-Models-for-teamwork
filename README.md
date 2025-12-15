@@ -13,7 +13,7 @@ AIT201 Group Project: Student Performance Prediction
 0 (Pass): 成绩及格 (G3 >= 10)
 1 (Risk): 有挂科风险 (G3 < 10)
 
-📂 数据集 (Dataset)
+数据集 (Dataset)
 
 来源: 队友
 科目: 数学 (Math Course)
